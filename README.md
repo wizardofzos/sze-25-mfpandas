@@ -1,6 +1,6 @@
 # Demo Material
 
-As presented at System Z enthausiasts meetup on Feb 19th 2026..
+As presented at System Z Enthusiasts meetup on Feb 19th 2026..
 
 ## How to use
 
